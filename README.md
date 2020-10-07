@@ -7,6 +7,10 @@ https://www.raspberrypi.org/products/raspberry-pi-4-model-b/
 https://ark.intel.com/content/www/us/en/ark/products/140109/intel-neural-compute-stick-2.html
 ### USB Camera
 
+## Software
+### OpenVINO™ toolkit
+https://software.intel.com/content/www/us/en/develop/tools/openvino-toolkit.html
+
 ## Back-End
 ### Node-RED
 https://nodered.org/
