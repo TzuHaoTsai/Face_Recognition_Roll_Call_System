@@ -10,5 +10,5 @@ https://ark.intel.com/content/www/us/en/ark/products/140109/intel-neural-compute
 ## Back-End
 ### Node-RED
 https://nodered.org/
-### Mariadb
+### MariaDB
 https://mariadb.com/downloads/
