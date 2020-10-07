@@ -2,6 +2,7 @@
 
 ## Hardware
 ### (1)Raspbarry Pi 4  
+#### https://www.raspberrypi.org/products/raspberry-pi-4-model-b/
 ### (2)Intel® Neural Compute Stick 2  
 ### (3)USB Camera
 
